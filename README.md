@@ -4,11 +4,16 @@ Coding passionately while embracing new challenges! 💻✨
 
 ## About Me
 * Student at Hanyang University (Information Systems)
-* Full-Stack Developer Intern at Credos Partners (Mar 2025 - Present)
+* Full-Stack Developer at Credos Partners (Mar 2025 - Present)
 
 ## Tech Stack
-### Languages & Frontend
+### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
+### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -24,7 +29,7 @@ Coding passionately while embracing new challenges! 💻✨
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## Experience
-**Credos Partners** - Full-Stack Developer Intern (Mar 2025 - Present)
+**Credos Partners** - Full-Stack Developer (Mar 2025 - Present)
 - Developing with React/Next.js and Spring Boot/PostgreSQL
 - Performing E2E testing and requirement improvements
 - Working in a professional development environment
@@ -32,5 +37,10 @@ Coding passionately while embracing new challenges! 💻✨
 ## Education
 **Hanyang University** - Department of Information Systems
 
+## Currently Learning
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
 ## Contact
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:popramel@hanyang.ac.kr)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:popramel25@gmail.com)
+[![Blog](https://img.shields.io/badge/-Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@popramel/posts)
