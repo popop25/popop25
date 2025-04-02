@@ -31,8 +31,8 @@ Coding passionately while embracing new challenges! 💻✨
 ## Experience
 **Credos Partners** - Full-Stack Developer (Mar 2025 - Present)
 - Developing with React/Next.js and Spring Boot/PostgreSQL
+- Working on project reconstruction with Kotlin/SpringBoot and Python/FastAPI
 - Performing E2E testing and requirement improvements
-- Working in a professional development environment
 
 ## Education
 **Hanyang University** - Department of Information Systems
@@ -40,6 +40,8 @@ Coding passionately while embracing new challenges! 💻✨
 ## Currently Learning
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ## Contact
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:popramel25@gmail.com)
