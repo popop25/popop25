@@ -1,10 +1,5 @@
-# Jeongho Park
-
-Coding passionately while embracing new challenges! 💻✨
-
-## About Me
-* Student at Hanyang University (Information Systems)
-* Full-Stack Developer at Credos Partners (Mar 2025 - Present)
+# Hello, I am Jeongho Park
+Have Fun! 💻✨
 
 ## Tech Stack
 ### Languages
@@ -27,15 +22,6 @@ Coding passionately while embracing new challenges! 💻✨
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-## Experience
-**Credos Partners** - Full-Stack Developer (Mar 2025 - Present)
-- Developing with React/Next.js and Spring Boot/PostgreSQL
-- Working on project reconstruction with Kotlin/SpringBoot and Python/FastAPI
-- Performing E2E testing and requirement improvements
-
-## Education
-**Hanyang University** - Department of Information Systems
 
 ## Currently Learning
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
