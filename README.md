@@ -1,4 +1,4 @@
-# Hello, I am Jeongho Park
+### Hello, I am Jeongho Park
 Have Fun! 💻✨
 
 ## Tech Stack
